@@ -1,4 +1,4 @@
-## Real Estate Rental Data Analysis
+## Real Estate Rental Trends: Clustering for Insights
 
 ### Project Description
 This project focuses on analyzing rental property listings using advanced machine learning techniques, specifically clustering, to uncover patterns and insights within the data. It explores the relationships between various property features, temporal dimensions, geographic locations, and rental prices, employing clustering algorithms to identify significant patterns. The project is part of the "Advanced Topics in Machine Learning" course, aiming to provide comprehensive insights into the rental market's dynamics.
