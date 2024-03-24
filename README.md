@@ -65,6 +65,7 @@ This project was completed by Sahar and Amit as part of the "Advanced Topics in 
 - In addition to the Python notebooks, the project utilizes Excel files for data handling and preparation:
   1. `clean_final_data.xlsx` for the cleaned and prepared dataset, available in the repository.
   2. `final_merge_tel_aviv_data.xlsx` for the initial merged dataset, not available on GitHub due to size limitations. Please contact the project contributors for access to this file.
+  3. The `real_estate_data` directory contains Excel files with the scraped rental listing data. Each file contains around 2,400 records, with each file comprising approximately 50 sheets and each sheet holding data for 48 listings. The files are named sequentially, e.g., `scraped_data_1-50.xlsx`, `scraped_data_51-100.xlsx`, and so on, up to `scraped_data_5701-5737.xlsx`.
 
 ### Contact
 
