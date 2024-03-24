@@ -52,7 +52,7 @@ For detailed results, visualizations, and interpretations, please refer to the p
 This project was completed by Sahar and Amit as part of the "Advanced Topics in Machine Learning" course.
 
 - Sahar: Project report writing, documentation, and result interpretation.
-- Amit: Data preprocessing, feature engineering, model implementation, code development and too result interpretation.
+- Amit: Data preprocessing, feature engineering, model implementation, code development and also result interpretation.
 
 ### References
 
